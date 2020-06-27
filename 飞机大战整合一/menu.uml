@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.ddh.menu</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">com.ddh.menu.MainMenuFrame</node>
+    <node x="0.0" y="257.0">com.ddh.menu.SelectLeveJFrame</node>
+    <node x="209.0" y="0.0">com.ddh.menu.AboutDialogFrame</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="208.0" y="211.5" />
+  <SelectedNodes>
+    <node>com.ddh.menu.MainMenuFrame</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
